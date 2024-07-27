@@ -56,8 +56,9 @@ To reload the VSCode window:
 
 There you go! As you can see, we've transformed your development environment from this:
 
-- [Before](before.mp4)
+- [Before]<iframe width="380" height="220" src="./before.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 to this:
 
--[After](after.mp4)
+- [After]<iframe width="380" height="220" src="./after.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
