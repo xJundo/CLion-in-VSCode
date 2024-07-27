@@ -52,3 +52,12 @@ To reload the VSCode window:
 1. Press `Ctrl+Shift+P` to open the Command Palette.
 2. Type `Reload Window` and select the `Developer: Reload Window` option.
 
+---
+
+There you go! As you can see, we've transformed your development environment from this:
+
+![CLion Screenshot](path/to/clion_screenshot.png)
+
+to this:
+
+![VSCode Screenshot](path/to/vscode_screenshot.png)
