@@ -56,8 +56,8 @@ To reload the VSCode window:
 
 There you go! As you can see, we've transformed your development environment from this:
 
-![CLion Screenshot](path/to/clion_screenshot.png)
+- [Before](before.mp4)
 
 to this:
 
-![VSCode Screenshot](path/to/vscode_screenshot.png)
+-[After](after.mp4)
